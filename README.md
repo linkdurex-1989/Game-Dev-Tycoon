@@ -216,4 +216,4 @@ Game Dev Tycoon is offered as a complete free version with all features and upda
 Ready to embark on your journey as a game developer? Download **Game Dev Tycoon** now and start building your gaming empire today!
 
 ---
-**Last updated:** 2026-10-07 20:28:06 UTC
+**Last updated:** 2026-10-08 00:47:05 UTC
